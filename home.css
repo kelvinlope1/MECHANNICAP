@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    height: 100px;
+    background-image: url(taller.jpg);
+}
+#banner{
+    padding: 0 50px;
+    background: rgb(77, 77,92,0.6);
+    position: absolute;
+    width: 100%;
+    height: 45vh;
+    left: 0;
+}
+.contenido-banner h3{
+    font-size: 30px;
+    font-weight: 400px;
+    padding: 10px 0px;
+    position: relative;
+    color: #000000;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
